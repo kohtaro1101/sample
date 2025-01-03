@@ -1,0 +1,11 @@
+body{
+    font-family: 'Toppan Bunkyu Gothic'; font-weight: normal;
+}
+
+
+
+.title {
+    color: #ffffff;
+    background-color: #6f706e;
+    font-size: 30px;
+  }
